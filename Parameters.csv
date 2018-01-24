@@ -1,0 +1,27 @@
+Locations,TimeSlices,Other1,Other2,Other3
+100,168,,,
+MinX,-71.1856,,,<---Modifiable
+MaxX,-70.9862,diag dist (kms):,22.43771688,
+MinY,42.251065,Distance X,16.41203413,
+MaxY,42.388836,Distance Y,15.31943624,
+,,Kms in each square,,
+GridsX,10,1.641203413,Grid Length X,0.01994
+GridsY,10,1.531943624,Grid Length Y,0.0137771
+NumberOfLocations,100,Minutes in each time slot:,Hours in each time slot,Days in each time slot
+Time Slots,168,59.94047619,0.9990079365,0.04162533069
+Total Days,6.993055556,,,
+,,Date,Time,
+Initial Date Waze,2/23/2015 0:10:00,2/23/2015,12:10:00 AM,
+Final Date Waze,3/2/2015 0:00:00,3/2/2015,12:00:00 AM,
+,Total Minutes,10070,,
+,,,,
+Weights for extra Days Added to Opening in Official Data,,Cumulative,,
+0,,0,1,
+1,0.56473241,0.56473241,2,
+2,0.18381393,0.74854634,3,
+3,0.12507417,0.87362051,4,
+4,0.07760769,0.9512282,5,
+5,0.0487718,1,6,
+6,,,,
+,,,,
+Sum,1,,,
